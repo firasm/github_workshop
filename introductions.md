@@ -7,6 +7,6 @@ Let's all write a few sentences to show how this works.
 3. Maya -
 4. Morgan -
 5. Annie - 
-6. Abby - 
+6. Abby - I am new to Git!
 7. Paula - 
 8. Michael - 
