@@ -8,5 +8,5 @@ Let's all write a few sentences to show how this works.
 4. Morgan -
 5. Annie - 
 6. Abby - I am new to Git!
-7. Paula - 
+7. Paula - I like cats
 8. Michael - 
