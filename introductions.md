@@ -9,4 +9,4 @@ Let's all write a few sentences to show how this works.
 5. Annie - 
 6. Abby - 
 7. Paula - 
-8. Michael - 
+8. Michael - Git Git
