@@ -9,4 +9,4 @@ Let's all write a few sentences to show how this works.
 5. Annie - git/github is so cool :D 
 6. Abby - I am new to Git!
 7. Paula - I like cats
-8. Michael - 
+8. Michael - Git Git
