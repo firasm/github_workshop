@@ -6,7 +6,7 @@ Let's all write a few sentences to show how this works.
 2. Edris - 
 3. Maya -
 4. Morgan -
-5. Annie - 
+5. Annie - git/github is so cool :D 
 6. Abby - 
 7. Paula - 
 8. Michael - 
